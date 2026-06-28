@@ -65,5 +65,5 @@ jupyter notebook PCOS_Detection_Medical.ipynb
 
 ---
 
-*Part of Preeti Bhardwaj's portfolio — see also [Data Analytics](https://github.com/mistyvisty/Data-Analytics-Portfolio)*
+
 
